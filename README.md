@@ -1,2 +1,3 @@
-# 5ch-thumbnail-tool
+# 5ch Thumbnail Tool
+
 5chのサムネイルURLを取得できるサイト。
